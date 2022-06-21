@@ -9,13 +9,13 @@ This thesis was submitted in the MA degree programme [Digital Cultures](https://
 
 # Overview of charts in this repository:
 
-Fig 1: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
-Fig 2: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
-Fig 3: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
-Fig 4: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
-Fig 5: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
-Fig 6: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
-Fig 7: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a>
+Fig 1: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 2: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 3: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 4: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 5: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 6: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 7: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
 Fig 8
 Fig 9
 Fig 10
