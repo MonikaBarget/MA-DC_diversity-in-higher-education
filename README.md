@@ -9,7 +9,7 @@ This thesis was submitted in the MA degree programme [Digital Cultures](https://
 
 # Overview of charts in this repository:
 
-Fig 1: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
+Fig 1: <a href="[https://drive.google.com/drive/u/0/folders/12N8An82_sMXP4D1YGQEx70oK9f3Ts3Zr]">Document NAME</a></br>
 Fig 2: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
 Fig 3: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
 Fig 4: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
