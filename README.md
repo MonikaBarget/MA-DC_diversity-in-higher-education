@@ -9,7 +9,8 @@ This thesis was submitted in the MA degree programme [Digital Cultures](https://
 
 # Overview of charts in this repository:
 
-Fig 1: <a href="https://github.com/MonikaBarget/MA-DC_diversity-in-higher-education/blob/1ada8c3123c35b92c47754c494e30b0a418cc2b0/Appendix%20B/Figure%201.png"></a></br>
+Fig 1: <a href="https://github.com/MonikaBarget/MA-DC_diversity-in-higher-education/blob/1ada8c3123c35b92c47754c494e30b0a418cc2b0/Appendix%20B/Figure%201.png">The cirrus word cloud of combined texts version 1![image](https://user-images.githubusercontent.com/105302648/176483214-cd23b648-51f6-4414-84b1-7293ca578069.png)
+</a></br>
 Fig 2: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
 Fig 3: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
 Fig 4: <a href="https://de.wikipedia.org/wiki/Diagramm#/media/Datei:Diagrama_de_Dispersion.png">Document NAME</a></br>
