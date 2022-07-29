@@ -100,3 +100,15 @@ Fig 87: <a href="https://github.com/MonikaBarget/MA-DC_diversity-in-higher-educa
 Fig 88: <a href="https://github.com/MonikaBarget/MA-DC_diversity-in-higher-education/blob/f361a8dceeadf6d2762a83a3b49272d639b99fcd/Appendix%20B/Figure%2087.png">The context of the term [curricula]</a></br>
 Fig 89: <a href="https://github.com/MonikaBarget/MA-DC_diversity-in-higher-education/blob/f361a8dceeadf6d2762a83a3b49272d639b99fcd/Appendix%20B/Figure%2089.png">Co-occurrence of the terms [gender], [race], [ethnicity], [cultural], [age] and [religious] in the individual texts</a></br>
 Fig 90: <a href="https://github.com/MonikaBarget/MA-DC_diversity-in-higher-education/blob/f361a8dceeadf6d2762a83a3b49272d639b99fcd/Appendix%20B/Figure%2090.png">Co-occurrence of the terms [curricula] and [curriculum] in the individual texts</a></br>
+
+# Explanation of keywords analysed in the corpus
+
+The charts above focus on keywords relating to three areas:
+
+1. Aspects of human identity which play a part in diversity debates (e.g. gender, race, religion and age)
+2. Agents addressed in the policy documents (e.g. administrators, students, and staff)
+3. Measures or activities proposed for implementing diversity (ranging from training for groups to one-on-one mentoring)
+
+In the figure captions, the keywords used for in-depth analyses in Voyant Tools are indicated in square brackets.
+
+
